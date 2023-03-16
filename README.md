@@ -10,6 +10,10 @@ More text.
 
 Works on local system or web server.
 
+## How to Contribute
+
+Please fork this repository and then issue Pull Request for review.
+
 ## Purpose
 
 Sample website with plenty of files for demos
