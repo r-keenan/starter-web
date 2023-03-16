@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ross Keenan ross.keenan@protonmail.com
 
 # THANKS
 
