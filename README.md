@@ -8,6 +8,10 @@ More text.
 
 ## Deployment
 
+Works on local system or web server.
+
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## END
