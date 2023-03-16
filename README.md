@@ -15,3 +15,5 @@ Works on local system or web server.
 Sample website with plenty of files for demos
 
 ## END
+
+Copyright 2023
